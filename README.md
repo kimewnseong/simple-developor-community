@@ -5,18 +5,28 @@
 개모임은 '개발자 프로젝트 모임'의 줄임말입니다.
 
 - <회원가입>
+
+
 ![회원가입](https://user-images.githubusercontent.com/87754201/149621721-3283e352-6ed6-450c-bcdc-0e9d3d0d6fcf.gif)
 
 - <로그인 및 프로필>
+
+
 ![로그인 및 프로필](https://user-images.githubusercontent.com/87754201/149621714-97c2e179-ce3c-4135-8658-9ff8bd743edb.gif)
 
 - <글 상세페이지>
+
+
 ![글 상세](https://user-images.githubusercontent.com/87754201/149621710-214a589c-131c-4e56-a9ad-4725a04297e5.gif)
 
 - <메인화면 및 글 작성>
+
+
 ![메인 및 글작성](https://user-images.githubusercontent.com/87754201/149621718-808c0d59-55df-4c10-b437-5667ecdf43c8.gif)
 
 - <댓글작성>
+
+
 ![댓글 작성](https://user-images.githubusercontent.com/87754201/149621712-1e503ee4-1038-4423-afa3-8d237cd4e58e.gif)
 
 ## 1. 프로젝트 소개
